@@ -1,0 +1,7 @@
+ami_id="ami-0e742cca61fb65051"
+inst_type="t2.micro"
+tag_name="vikrant-mod"
+volume_tag="vikrant@cloudeq.com"
+bucket_name="vikrant-s3"
+tag_name_bucket = "vikrant"
+owner_name = "vikrant@cloudeq.com"
